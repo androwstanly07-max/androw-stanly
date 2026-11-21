@@ -21,7 +21,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
 </p>
 
 ## 📚 Currently Learning
